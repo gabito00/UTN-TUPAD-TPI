@@ -36,7 +36,7 @@ Se desarrolló un sistema que simula un negocio con productos, permitiendo:
 
 3. Ejecutar el archivo principal:
    ```bash
-   python tp-2.py
+   python Tp-Integrador-CasoPractico.py
    ```
 
 4. Seguir las instrucciones en pantalla:
