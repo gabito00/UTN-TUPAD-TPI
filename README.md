@@ -86,11 +86,11 @@ Entre las posibles mejoras futuras se encuentran:
 
 ```
 ├── Tp-Integrador-CasoPractico.py             # Archivo principal del proyecto
-├── Tp-TesteoDeTiempos.py                     # Archivo principal del proyecto
+├── Tp-TesteoDeTiempos.py                     # Archivo de testeo del proyecto
 ├── README.md                                 # Descripción y guía del proyecto
 ├── capturas/                                 # Capturas de pantalla de pruebas 
 ├── Tp programacion.pdf                       # Trabajo práctico completo
-├── TpI-Programacion-Busqueda y orden.pptx    # Trabajo práctico completo
+├── TpI-Programacion-Busqueda y orden.pptx    # Presentacion en PowerPoint práctico completo
 ```
 
 ## 📎 Enlace al informe
