@@ -20,19 +20,18 @@ Se desarrolló un sistema que simula un negocio con productos, permitiendo:
 
 - **Programación I**  
 - **Tecnicatura Universitaria en Programación (UTN)**
-- Año lectivo: 2024–2025
+- Año lectivo: 2025
 
 ## 💻 Instrucciones de uso
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/tp-busqueda-ordenamiento.git
+   git clone https://github.com/gabito00/UTN-TUPAD-TPI.git
    ```
-   *(Reemplazar por el enlace real)*
 
 2. Ingresar al proyecto:
    ```bash
-   cd tp-busqueda-ordenamiento
+   cd UTN-TUPAD-TPI
    ```
 
 3. Ejecutar el archivo principal:
@@ -86,16 +85,18 @@ Entre las posibles mejoras futuras se encuentran:
 ## 📁 Estructura del repositorio
 
 ```
-├── tp-2.py                # Archivo principal del proyecto
-├── README.md              # Descripción y guía del proyecto
-├── capturas/              # Capturas de pantalla de pruebas (opcional)
-├── informe.pdf            # Trabajo práctico completo (opcional)
+├── Tp-Integrador-CasoPractico.py             # Archivo principal del proyecto
+├── Tp-TesteoDeTiempos.py                     # Archivo principal del proyecto
+├── README.md                                 # Descripción y guía del proyecto
+├── capturas/                                 # Capturas de pantalla de pruebas 
+├── Tp programacion.pdf                       # Trabajo práctico completo
+├── TpI-Programacion-Busqueda y orden.pptx    # Trabajo práctico completo
 ```
 
 ## 📎 Enlace al informe
 
 📝 Versión PDF del trabajo práctico disponible en el repositorio.  
-📹 El video presentación con demostración práctica será compartido por la cátedra.
+📹 El video presentación con demostración práctica https://www.youtube.com/watch?v=po-gfVzxsKY.
 
 ## 📚 Bibliografía
 
@@ -104,4 +105,4 @@ Entre las posibles mejoras futuras se encuentran:
 
 ---
 
-© 2024 - UTN – Programación I – Rodrigo y Gabriel
+© 2025 - UTN – Programación I – Rodrigo y Gabriel
